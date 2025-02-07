@@ -94,7 +94,7 @@
         $pass = $_POST['txtpass'];
 
         if (strcmp($user, "sarin") == 0 && strcasecmp($pass, "admin") == 0) {
-            header("location:function.php");
+            header("location:insertEmp.php");
         } else {
             echo "<p class='error'>❌ Login Failed</p>";
         }

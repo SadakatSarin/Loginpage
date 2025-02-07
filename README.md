@@ -15,3 +15,11 @@ This is a simple **Login System** built with **PHP and MySQL**. It allows users 
 
 
 ## 📂 File Structure
+
+
+#pushing into github steps
+
+git pull origin main --rebase 
+git add .
+git commit -m "Updated feature X"
+git push origin main
