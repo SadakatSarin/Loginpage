@@ -12,6 +12,7 @@ This is a simple **Login System** built with **PHP and MySQL**. It allows users 
 - **PHP** (Backend processing)
 - **HTML** (Form structure)
 - **CSS** (Basic styling)
+- **MySQL**(Database)
 
 
 ## 📂 File Structure
